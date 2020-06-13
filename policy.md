@@ -11,7 +11,7 @@ Chúng tôi sẽ chuyển thông tin về bạn nếu VNQ được mua lại ho�
 
 Các điều khoản và Điều kiện dưới đây được cung cấp cho bạn vì lợi ích của bạn và không ràng buộc pháp lý, xin vui lòng tham khảo để nắm rõ:
 
-## I. Phạm vi sử dụng thông tin
+I. Phạm vi sử dụng thông tin
 “Thông tin cá nhân" được sử dụng ở đây được định nghĩa là bất kỳ thông tin nào có thể được sử dụng để nhận dạng, liên lạc hoặc xác định vị trí người mà thông tin đó liên quan. Các thông tin cá nhân mà chúng tôi thu thập đều mang tính bảo mật cho cá nhân , và có thể được sửa đổi theo thời gian.
 
 Khi bạn đăng ký VNQ chúng tôi xác nhận tên của bạn, tên công ty, địa chỉ email, địa chỉ thanh toán, và thông tin tài khoản ngân hàng. VNQ sử dụng thông tin chúng tôi thu thập cho các mục đích chung sau đây: các sản phẩm và các dịch vụ cung cấp, thanh toán, xác định và xác thực, cải thiện dịch vụ , liên hệ, và nghiên cứu.
@@ -30,20 +30,20 @@ Chúng tôi không bán hay cung cấp thông tin cá nhân cho các công ty kh
 
 Trong một số trường hợp , chúng tôi có thể tiết lộ thông tin cá nhân của bạn, như lệnh của tòa án .
 
-## II. Sự bảo mật
-Bảo mật thông tin cá nhân của bạn là rất quan trọng với chúng tôi. Khi bạn nhập thông tin nhạy cảm, như số thẻ tín dụng, số tài khoản ngân hàng vào mẫu đăng ký của chúng tôi, chúng tôi mã hóa việc truyền tải thông tin bằng cách sử dụng công nghệ mã hóa an toàn SSL - Secure Sockets Layer. Không có phương pháp truyền qua Internet, hoặc phương pháp lưu trữ điện tử, là 100% an toàn. Vì vậy, trong khi chúng tôi cố gắng sử dụng phương tiện mã hóa an toàn để bảo vệ thông tin cá nhân của bạn, chúng tôi không thể đảm bảo an ninh tuyệt đối. Nếu bạn có bất kỳ câu hỏi về bảo mật trên trang web của chúng tôi, bạn có thể gửi email cho chúng tôi tại hotro@VNQ.vn
+II. Sự bảo mật
+Bảo mật thông tin cá nhân của bạn là rất quan trọng với chúng tôi. Khi bạn nhập thông tin nhạy cảm, như số thẻ tín dụng, số tài khoản ngân hàng vào mẫu đăng ký của chúng tôi, chúng tôi mã hóa việc truyền tải thông tin bằng cách sử dụng công nghệ mã hóa an toàn SSL - Secure Sockets Layer. Không có phương pháp truyền qua Internet, hoặc phương pháp lưu trữ điện tử, là 100% an toàn. Vì vậy, trong khi chúng tôi cố gắng sử dụng phương tiện mã hóa an toàn để bảo vệ thông tin cá nhân của bạn, chúng tôi không thể đảm bảo an ninh tuyệt đối. Nếu bạn có bất kỳ câu hỏi về bảo mật trên trang web của chúng tôi, bạn có thể gửi email cho chúng tôi tại thien@eye-solution.vn
 
-Chúng tôi mã hóa việc truyền tải thông tin theo chuẩn SSL. Bởi vì những thứ xảy ra, chúng tôi không thể đảm bảo 100% bảo mật dữ liệu của bạn. Nếu bạn có thắc mắc email hotro@VNQ.vn.
+Chúng tôi mã hóa việc truyền tải thông tin theo chuẩn SSL. Bởi vì những thứ xảy ra, chúng tôi không thể đảm bảo 100% bảo mật dữ liệu của bạn. Nếu bạn có thắc mắc email thien@eye-solution.vn.
 
-## III. Lưu trữ dữ liệu khách hàng
+III. Lưu trữ dữ liệu khách hàng
 VNQ sở hữu lưu trữ dữ liệu , cơ sở dữ liệu và tất cả các quyền đối với ứng dụng VNQ. Tuy nhiên chúng tôi không yêu cầu sử dụng các quyền của dữ liệu của bạn. Bạn giữ lại tất cả các quyền đối với dữ liệu của bạn và chúng tôi sẽ không bao giờ liên lạc với khách hàng của bạn trực tiếp, hoặc sử dụng dữ liệu của bạn cho lợi thế kinh doanh của chúng tôi hoặc cạnh tranh với bạn hoặc thị trường để khách hàng của bạn .
 
-## IV. Cookies
+IV. Cookies
 Cookie là một lượng nhỏ dữ liệu , có thể bao gồm một định danh duy nhất vô danh. Cookie được gửi tới trình duyệt của bạn từ một trang web và được lưu trữ trên ổ đĩa cứng của máy tính. Mỗi máy tính có thể truy cập trang web của chúng tôi được phân công một cookie khác nhau.
 
 Để xác định bạn trên hệ thống điện tử, một cookie sẽ được lưu trữ trên máy tính của bạn. Chúng tôi có một công cụ " tiếp thị " hoạt động cho phép chúng tôi lưu ý khi bạn viếng thăm trang web của chúng tôi và hiển thị quảng cáo có liên quan trên trang web của chúng tôi và qua mạng Internet. Bạn luôn có thể chọn không tham gia .
 
-## V. Thay đổi chính sách bảo mật
+V. Thay đổi chính sách bảo mật
 Chúng tôi có quyền thay đổi chính sách bảo mật này bất cứ lúc nào, vì vậy hãy xem xét nó thường xuyên. Nếu chúng tôi có thay đổi quan trọng đối với chính sách này, chúng tôi sẽ thông báo cho bạn đây hoặc bằng một thông báo trên trang chủ của chúng tôi để bạn nhận thức được những gì chúng tôi thu thập thông tin, làm thế nào chúng ta sử dụng nó, và trong hoàn cảnh nào, chúng tôi sẽ tiết lộ nó, nếu có.
 
 Chúng tôi có thể thay đổi chính sách bảo mật này . Nếu đó là một thay đổi lớn, chúng tôi sẽ thông báo
